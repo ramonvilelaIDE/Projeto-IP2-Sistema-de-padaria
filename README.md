@@ -12,16 +12,16 @@
 A partir disso, você deve detalhar as funcionalidades do sistema tentando responder às perguntas:
 
  1. Quem vai usar o programa?
-          R: Funcionários da empresa.
+     R: Funcionários da empresa.
 
  2. Que serviços são “necessários” (leia-se: importantes para os clientes e usuários)?
-          R: Cadastro de itens no estoque, registro de vendas, registro de despesas e etc.
+     R: Cadastro de itens no estoque, registro de vendas, registro de despesas e etc.
 
  3.  qual a principal funcionalidade do seu sistema?
-          R: Gerenciar uma padaria.
-
- 4. Quais serviços cada usuário pode executar? 
-     R: registrar vendas, cadastrar produtos no estoque, registrar despesas e etc.
+    R: Gerenciar uma padaria.
+     
+ 5. Quais serviços cada usuário pode executar? 
+    R: registrar vendas, cadastrar produtos no estoque, registrar despesas e etc.
 
 ## Requisitos:
  * **REQ1** - O sistema deve controlar o acesso através de login e senha. Os usuários do sistema serão do tipo administrador e funcionário.

@@ -1,16 +1,13 @@
 # Sistema de Padaria
-[Nome do projeto ou do grupo - este será seu identificador único até o final da disciplina]
 
 
 ## Integrantes do grupo 
-[Liste o nome completo de todos os integrantes do grupo com seus respectivos e-mails]
- * Caio Gabriel Nunes de Lima- gabrielnunesdelima2003@gmail.com
+ * Caio Gabriel Nunes de Lima - gabrielnunesdelima2003@gmail.com
  * Felipe Pereira Reis  -  felipepereirareis2104@gmail.com
  * João Victor Morais Barreto da silva  - joaovictor8454@gmail.com
  * Ramon Artur Vilela de Oliveira - ramonvilela92@hotmail.com
 
 ## Descrição geral do projeto 
-Nesta descrição, apresente um texto resumido com a(s) principal(is) funcionalidade(s) do sistema. 
 É muito importante que você consiga responder em uma única frase: qual a principal funcionalidade do seu sistema? Gerenciar uma padaria
 A partir disso, você deve detalhar as funcionalidades do sistema tentando responder às perguntas:
  1. Quem vai usar o programa? Funcionários da empresa.

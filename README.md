@@ -4,7 +4,7 @@
 
 ## Integrantes do grupo 
 [Liste o nome completo de todos os integrantes do grupo com seus respectivos e-mails]
- * Caio Gabriel  Nunes- caiogabrielnunes@gmail.com
+ * Caio Gabriel Nunes- gabrielnunesdelima2003@gmail.com
  * Felipe F P R  -  felipefpr@gmail.com
  * João Vitor  - maria@abc.com
  * Ramon Artur Vilela de Oliveira - ramonvilela92@hotmail.com

@@ -12,7 +12,9 @@
 - Nele será possível realizar cadastro de itens no estoque da loja, registro de vendas, registro de despesas, etc.
 - A principal funcionalidade é o gerenciamento virtual dos trâmites de uma loja física (padaria).
 - Levando em consideração dois tipos de usuários (administrador e usuário):
+
   Usuário do tipo Administrador: Além das ações permitidas aos usuários, também será possível acessar e alterar informações sensíveis do sistema, como por exemplo inserção de dados novos, cadastros de novos funcionários, etc.
+
   Usuário do tipo funcionário: realizar vendas, consultar estoque, registrar despesas, sugestões.
 
 ## Requisitos:
